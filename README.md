@@ -1,6 +1,6 @@
 # Fast_Pet
 
-<h1 align="center">Привет, я Богдан! 👋
+<h1 align="center">Привет, я Богдан! 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
